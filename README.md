@@ -1,4 +1,3 @@
-# Comparative-Analysis-of-Classification-Models-for-Rainfall-Prediction
 # **Comparative Analysis of Classification Models for Rainfall Prediction**
 
 ## **Table of Contents**
